@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Players">
+      <UniqueIdentifier>{fecfb01f-bb6d-4cf0-b0a2-2b4613407207}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemies">
+      <UniqueIdentifier>{1f787842-e8ff-4a63-97a1-ad0f7e56e034}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Items">
+      <UniqueIdentifier>{25a68b62-3ee5-4266-b53b-f597c0298e40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Players</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Goblin.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Ork.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Juggler.cpp">
+      <Filter>Players</Filter>
+    </ClCompile>
+    <ClCompile Include="Magician.cpp">
+      <Filter>Players</Filter>
+    </ClCompile>
+    <ClCompile Include="TightropeWalker.cpp">
+      <Filter>Players</Filter>
+    </ClCompile>
+    <ClCompile Include="Areas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArmlessGoblin.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Werewolf.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Lich.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Troll.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Items.cpp">
+      <Filter>Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Gold.cpp">
+      <Filter>Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Bandage.cpp">
+      <Filter>Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Water.cpp">
+      <Filter>Items</Filter>
+    </ClCompile>
+    <ClCompile Include="MauriceBleubeau.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Players</Filter>
+    </ClInclude>
+    <ClInclude Include="Ork.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Goblin.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Juggler.h">
+      <Filter>Players</Filter>
+    </ClInclude>
+    <ClInclude Include="Magician.h">
+      <Filter>Players</Filter>
+    </ClInclude>
+    <ClInclude Include="TightropeWalker.h">
+      <Filter>Players</Filter>
+    </ClInclude>
+    <ClInclude Include="Areas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ArmlessGoblin.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Werewolf.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Troll.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Lich.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Items.h">
+      <Filter>Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Gold.h">
+      <Filter>Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Bandage.h">
+      <Filter>Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Water.h">
+      <Filter>Items</Filter>
+    </ClInclude>
+    <ClInclude Include="MauriceBleubeau.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
